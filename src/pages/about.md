@@ -6,11 +6,11 @@ updatedDate: "August 28 2022"
 heroImage: "/bg.png"
 ---
 
-He / Him / His
+FrontEnd Copilot 🤖
 
-Frontend copilot, Rust newbie.
+Computer Science Newbie 👶
 
-Bio: In case of indecision, rewrite it in Rust.
+Technical Infrastructures RD 👨‍💻
 
 
 
