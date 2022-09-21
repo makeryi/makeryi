@@ -1,1 +1,4 @@
-受尽苦难而不厌，此乃修罗之道。 -- ロロノア・ゾロ
+- Code Copilot
+- Computer Science Newbie
+- Technical Infrastructures RD
+- Mathematics Hacker 🥷
