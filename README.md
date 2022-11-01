@@ -1,4 +1,1 @@
-- Code Copilot
-- Computer Science Newbie
-- Technical Infrastructures RD
-- Mathematics Hacker 🥷
+<h3 align="center">Mathematics & Computer Science</h3>
